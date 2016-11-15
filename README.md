@@ -9,7 +9,7 @@ reviews <- ndjson :: stream_in("C:/Users/priya/Desktop/office.json")
 View(reviews)
 
 ```
-# LDA ANALYSIS AND VISUALIZATION
+### LDA ANALYSIS AND VISUALIZATION
 
 Linear Discrimant Analysis is a classification method which produces a interactive interface for topic modelling with the help of packages *lda* and *LDAvis*
 
