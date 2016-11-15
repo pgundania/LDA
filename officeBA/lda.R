@@ -1,5 +1,5 @@
 library(ndjson)
-reviews <- ndjson :: stream_in("C:/Users/Bharat Rao/Desktop/video.json")
+reviews <- ndjson :: stream_in("C:/Users/priya/Desktop/office.json")
 View(reviews)
 reviews
 
