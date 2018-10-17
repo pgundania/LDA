@@ -64,5 +64,5 @@ The topic modelling for Office data has given 10 most relevant topics. When we c
 
 In the example, if we consider topic 1, the most relevant terms are printer,print,paper,printing,scanner for a lambda of 1. Topic 2, deals with the notes. We can find words like notes, post, words, sticky.Similarly, the terms for different topics can be sorted using this method for different values of lambda. The link for the LDAvis interactive file is given below.
 
-https://htmlpreview.github.io/#topic=2&lambda=1&term=
+https://htmlpreview.github.io/?https://github.com/pgundania/LDA/blob/master/officeBA/index.html
 
